@@ -20,7 +20,9 @@ git push -u origin main
 
 ### **npm deployment**
 
-- npm run build
-- npm run preview
-- npm install gh-pages --save-dev
-- npm run build
+```shell
+npm run build
+npm run preview
+npm install gh-pages --save-dev
+npm run build
+```
