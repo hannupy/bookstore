@@ -8,13 +8,15 @@
 
 - Create new repository to GitHub --> bookstore
 
-- git init
-- git add .
-- git commit -m "Initial commit"
-- git branch -M "main"
-- git remote add origin https://github.com/hannupy/bookstore.git
-- git remote -v <- Verify remote add settings
-- git push -u origin main
+```shell
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M "main"
+git remote add origin https://github.com/hannupy/bookstore.git
+git remote -v <- Verify remote add settings
+git push -u origin main
+```
 
 ### **npm deployment**
 
