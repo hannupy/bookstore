@@ -1,21 +1,22 @@
-# GitHub pages Bookstore
+# Hannu's GitHub pages Bookstore
 
 ## Metropolia React.js Fundamentals latest version (3 ects, nonstop)
 
-### GitHub pages link: https://hannupy.github.io/bookstore/
+### GitHub pages link: [GitHub] (https://hannupy.github.io/bookstore/)
 
-### Deploying:
-#### Create new repository to GitHub --> bookstore
+### **Deploying:**
 
-#### git init
-#### git add .
-#### git commit -m "Initial commit"
-#### git branch -M "main"
-#### git remote add origin https://github.com/hannupy/bookstore.git
-#### git remote -v -- Verify settings
-#### git push -u origin main
+- Create new repository to GitHub --> bookstore
 
-#### npm run build                                                                                                                                                                                                                            
-#### npm run preview                                                                                                                                                                                                                          
-#### npm install gh-pages --save-dev                                                                                                                                                                                                          
-#### npm run build
+- git init
+- git add .
+- git commit -m "Initial commit"
+- git branch -M "main"
+- git remote add origin https://github.com/hannupy/bookstore.git
+- git remote -v <- Verify remote add settings
+- git push -u origin main
+
+- npm run build
+- npm run preview
+- npm install gh-pages --save-dev
+- npm run build
