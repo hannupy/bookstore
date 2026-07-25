@@ -1,4 +1,4 @@
-# Hannu's GitHub pages Bookstore
+# **Bookstore**
 
 ## Metropolia React.js Fundamentals latest version (3 ects, nonstop)
 
