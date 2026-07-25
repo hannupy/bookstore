@@ -16,6 +16,8 @@
 - git remote -v <- Verify remote add settings
 - git push -u origin main
 
+### **npm deployment**
+
 - npm run build
 - npm run preview
 - npm install gh-pages --save-dev
