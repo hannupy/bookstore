@@ -4,7 +4,17 @@
 
 ### GitHub pages link: https://hannupy.github.io/bookstore/
 
-### Deploying: 
+### Deploying:
+#### Create new repository to GitHub --> bookstore
+
+#### git init
+#### git add .
+#### git commit -m "Initial commit"
+#### git branch -M "main"
+#### git remote add origin https://github.com/hannupy/bookstore.git
+#### git remote -v -- Verify settings
+#### git push -u origin main
+
 #### npm run build                                                                                                                                                                                                                            
 #### npm run preview                                                                                                                                                                                                                          
 #### npm install gh-pages --save-dev                                                                                                                                                                                                          
